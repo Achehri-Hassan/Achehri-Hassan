@@ -24,7 +24,7 @@
       </p>
       <div>
         <img src="https://img.shields.io/badge/Country-Morocco-red?style=for-the-badge&logo=morocco&logoColor=white" />
-        <img src="https://img.shields.io/badge/Age-22-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Age-23-blue?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Study-Solicode-green?style=for-the-badge&logo=google-scholar&logoColor=white" />
       </div>
     </td>
@@ -36,48 +36,86 @@
 
 <br>
 
-<h2 align="center">🚀 Skills Showcase</h2>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/98kcZtideBuSDrzDcR/giphy.gif" alt="HTML" width="150">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/GyHvYnLiEHLjh6Chpw/giphy.gif" alt="CSS" width="150">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/PIjlwugCy49HhyE8O2/giphy.gif" alt="JS" width="150">
-  </a>
+<!-- ==================== SKILLS & TOOLS SECTION ==================== -->
+<h2 align="left">🛠️ Languages & Tools</h2>
 
-</p>
-
-<div align="center">
-       <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="100"/>
-     </a>
-</div>
-
-<div align="center">
-  <h2>🛠️ Frontend & Tools</h2>
-  <p>
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-    
+<div align="left">
+  <p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="48" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="48" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="48" />
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" height="48" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="48" />
+    </a>
+    <a href="https://www.php.net/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="48" />
+    </a>
+   
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="48" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" />
+    </a>
+    <a href="https://trello.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=trello" alt="Trello" height="48" />
+    </a>
   </p>
 </div>
+<!-- ================================================================ -->
 
 <br>
 
-<div align="center">
-  <h2>🎓 Professional Certification</h2>
-  <a href="https://coursera.org/verify/RDQG1L1VQVSM" target="_blank">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="150">
-  </a>
-  <p><b>Meta Front-End Development Professional Certificate</b></p>
-</div>
+<!-- ==================== CERTIFICATIONS SECTION ==================== -->
+<h2>🎓 Professional Certifications</h2>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start;">
+  
+  <!-- Certification 1 -->
+  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
+    <a href="https://coursera.org/verify/RDQG1L1VQVSM" target="_blank">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
+    </a>
+    <p style="font-size: 14px; margin-top: 8px;"><b>Meta Front-End Development</b></p>
+  </div>
 
-<h2 align="center">📬 Contact Me</h2>
-<p align="center">
+  <!-- Certification 2 (Placeholder for your next cert) -->
+  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
+    <a href="https://coursera.org/share/65a12983f4380e54e883e55cc8aa5525" target="_blank">
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
+    </a>
+    <p style="font-size: 14px; margin-top: 8px;"><b>HTML and CSS in depth</b></p>
+  </div>
+
+  <!-- Certification 3 (Placeholder for your next cert) -->
+  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
+    <a href="https://coursera.org/share/cf83dee70d06f2bba289891c775eef65" target="_blank">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
+    </a>
+    <p style="font-size: 14px; margin-top: 8px;"><b>SQL: A Practical Introduction for Querying Databases</b></p>
+  </div>
+
+</div>
+<!-- ================================================================ -->
+
+<br>
+
+<h2 align="left">📬 Contact Me</h2>
+<p align="left">
   <a href="mailto:hassan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hassan-achehrri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
