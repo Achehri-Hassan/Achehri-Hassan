@@ -83,33 +83,34 @@
 
 <!-- ==================== CERTIFICATIONS SECTION ==================== -->
 <h2>🎓 Professional Certifications</h2>
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start;">
-  
-  <!-- Certification 1 -->
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <a href="https://coursera.org/verify/RDQG1L1VQVSM" target="_blank">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
-    </a>
-    <p style="font-size: 14px; margin-top: 8px;"><b>Meta Front-End Development</b></p>
-  </div>
 
-  <!-- Certification 2 (Placeholder for your next cert) -->
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <a href="https://coursera.org/share/65a12983f4380e54e883e55cc8aa5525" target="_blank">
-     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
-    </a>
-    <p style="font-size: 14px; margin-top: 8px;"><b>HTML and CSS in depth</b></p>
-  </div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Certification 1 -->
+    <td width="33.33%" align="center" valign="top">
+      <a href="https://coursera.org/verify/RDQG1L1VQVSM" target="_blank">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="130">
+      </a>
+      <p style="font-size: 14px; margin-top: 8px;"><b>Meta Front-End Development</b></p>
+    </td>
 
-  <!-- Certification 3 (Placeholder for your next cert) -->
-  <div style="flex: 1; min-width: 200px; max-width: 250px; text-align: center;">
-    <a href="https://coursera.org/share/cf83dee70d06f2bba289891c775eef65" target="_blank">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="120">
-    </a>
-    <p style="font-size: 14px; margin-top: 8px;"><b>SQL: A Practical Introduction for Querying Databases</b></p>
-  </div>
+    <!-- Certification 2 -->
+    <td width="33.33%" align="center" valign="top">
+      <a href="https://coursera.org/share/65a12983f4380e54e883e55cc8aa5525" target="_blank">
+       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="130">
+      </a>
+      <p style="font-size: 14px; margin-top: 8px;"><b>HTML and CSS in depth</b></p>
+    </td>
 
-</div>
+    <!-- Certification 3 -->
+    <td width="33.33%" align="center" valign="top">
+      <a href="https://coursera.org/share/cf83dee70d06f2bba289891c775eef65" target="_blank">
+       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZjYnk3aXQxc29qbjhtdWZ5ZXBleThjMW9ueTZmN2cxdGl6c2NkdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UbpDGZveiW8cpDzOPK/giphy.gif" width="130">
+      </a>
+      <p style="font-size: 14px; margin-top: 8px;"><b>SQL: A Practical Introduction for Querying Databases</b></p>
+    </td>
+  </tr>
+</table>
 <!-- ================================================================ -->
 
 <br>
